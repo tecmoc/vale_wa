@@ -40,11 +40,13 @@
 
 .card-title {
   margin-bottom: $card-spacer-y;
+  font-size: 1.75rem;//cutomatizado
 }
 
 .card-subtitle {
   margin-top: -($card-spacer-y / 2);
   margin-bottom: 0;
+  font-size: 1.25rem;//customatizado
 }
 
 .card-text:last-child {

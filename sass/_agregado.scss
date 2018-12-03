@@ -1,0 +1,17 @@
+.blockquote-footer {
+  color: $white;
+}
+.go-top {
+  font-size: 1rem;
+  color: $white;
+  padding: .75rem 1rem;
+  position: fixed;
+  bottom: 0.5rem;
+  right: 0.5rem;
+  box-shadow: 1px 2px 4px rgba($dark,0.45);
+  line-height: 1;
+  border-radius: 6px;
+}
+.btn-primary {
+  color: $white;
+}
